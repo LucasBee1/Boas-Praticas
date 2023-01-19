@@ -1,0 +1,9 @@
+Crie um plano de testes antes de começar a escrever seus casos de teste.
+
+Certifique-se de que seus casos de teste estejam sempre atualizados para refletir as alterações no software.
+
+Faça revisões regulares de seus casos de teste para garantir que eles ainda sejam relevantes.
+
+Utilize testes de regressão para garantir que alterações no software não afetem funcionalidades existentes.
+
+Faça testes de segurança para garantir que o software não possa ser comprometido por ataques externos.
